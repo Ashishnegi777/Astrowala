@@ -1936,6 +1936,7 @@ html, body {
     max-width: 100%;
     padding-top: 0;
     margin-bottom: 0;
+      width: 80%;
   }
 
   .hero__title {
