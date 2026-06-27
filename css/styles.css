@@ -1914,7 +1914,7 @@ html, body {
 
   .hero__eyebrow {
     order: 1;
-    align-self: center;
+    align-self: start;
     font-family: var(--font-inter);
     font-size: 10px;
     line-height: 15px;
